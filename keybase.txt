@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/mahdi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mahdi.uk
+  * I am mahdi (https://keybase.io/mahdi) on keybase.
+  * I have a public key with fingerprint EC98 351D 9960 F70A 8A4F  B84D 832B D728 FCA8 A8C3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016ac9ef90a85f9273f5db10bc8e07e34a1122e5efc62bd272e43a54270dfa0b800a",
+      "fingerprint": "ec98351d9960f70a8a4fb84d832bd728fca8a8c3",
+      "host": "keybase.io",
+      "key_id": "832bd728fca8a8c3",
+      "kid": "01016ac9ef90a85f9273f5db10bc8e07e34a1122e5efc62bd272e43a54270dfa0b800a",
+      "uid": "f2e84498a43e1c9779a5e61272280c00",
+      "username": "mahdi"
+    },
+    "service": {
+      "hostname": "mahdi.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1658600102,
+  "expire_in": 157680000,
+  "prev": "e1b0ea6313a7994949c00430bba39d8791e705b59237436675f801f42f47028c",
+  "seqno": 84,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJpSBVRGH0uLQqCYaEmZE1qrxS7s8+8yoUkiMg/SmTb687Mnfcmdd5z
+Zp5LJgWSZWaWPwpyoU2zCEEoyiRKM0FbNEEs2zAsSIlWJKiwO1LQj37G/XG5555z
+7jkftzcixBEeVJk86vzR1nY36H73iYBDeu5qLSckn1JGuMqJfDS7oQIFmZY7X1MI
+FwFIQHJQFpEqAiiwqkjxtMoqEgkkWUCARzQDSZKiEItUmaMkheIpxNCQZSgeKCoE
+kgAAJFIIVdM9yPAbmm5hWySLAs2SiihyQOWxM2RUSWAUgcYWPCWoMoYEmcZCr8+0
+FTicBE2Uqvkwhg/u2Xj/4P/n3IFZO5VCAsOIOCaNSFnkeRGyiCOxiBKADIBNNJGh
+w0KE2YXQq2hERQqBoWJNRvZU7Rp/X6cG8rHIb/gsn+wrwKjXsvymy1ZZZX6bVoIk
+928Dt6TpCh4gVhQjw9R8OuEiMVO2NNuR5FiBA7gylUKgUr9mILdmM1iewy0AsN9B
+xfbYSQkgyNEkDXlRZPDC2RkaSBKkRUXgRRLxgJVYkaJ5huY4nlUFQKoMpTI8oASZ
+sCsV6T7CJTA4J/RgT1Pz6NAKGIio6LmzI9QRFO6YOyfY/lmO8LDIP/9N1efN7Daa
+Jg6y7Qnnlm9obvl5dSnZ1j2ybCqpMzZqy2nD3VBFT+UF1zanvtSrP2z1R7dOfD+U
+k77yY8yi22Nk84tbx/a/e5CY+fjb0EDuQ+3szji5frxkj7euMbZlU/TqkZDNoF/t
+pVacV3KoQGS99DTB3dDXebMivdbZld3uXGxeSHoSk/ZqX1BefO/ApZ4WbXhtVvm9
+9Mt1g2m7PBnOA8jqA+uFjBDTubHwVOpo4406/+FVVe+PZkcsTOTedmcWZXz9rE2f
+uXglt6YyqzozfebLOs/4m9ix12NLqq5PPqvs6BoMi4jf9mjNp6YFUTB5em/HtSPH
+42qGT24vHYrvz5o/mRkq/QKTmTzC
+=Qf7+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mahdi
+
+==================================================================
