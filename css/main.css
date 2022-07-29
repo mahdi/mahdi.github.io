@@ -1358,6 +1358,9 @@ header .logo a {
 .intro-content .intro-position span {
 	display: inline-block;
 }
+.intro-content .intro-position .pgp {
+	text-transform: none;
+}
 .intro-content .intro-position span::after {
 	content: "|";
 	text-align: center;
