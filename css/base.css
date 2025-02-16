@@ -240,6 +240,24 @@ th {
 	padding: 0;
 }
 
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	text-align: center;
+}
+
+.profile-pic {
+	width: 150px;
+	/* Adjust size as needed */
+	height: 150px;
+	border-radius: 50%;
+	object-fit: cover;
+	margin-bottom: 20px;
+}
+
 /** 
  * ===================================================================
  * 02. basic/base setup styles - (_basic.scss)
@@ -419,7 +437,7 @@ textarea {
 	float: left;
 }
 
-[class*="col-"] + [class*="col-"].end {
+[class*="col-"]+[class*="col-"].end {
 	float: right;
 }
 
@@ -605,7 +623,7 @@ textarea {
 		padding: 0;
 	}
 
-	[class*="col-"] + [class*="col-"].end {
+	[class*="col-"]+[class*="col-"].end {
 		float: none;
 	}
 
